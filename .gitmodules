@@ -1,0 +1,6 @@
+[submodule "git-novel"]
+	path = git-novel
+	url = https://github.com/pie08/git-novel.git
+[submodule "git-playlist"]
+	path = git-playlist
+	url = https://github.com/pie08/git-playlist.git
